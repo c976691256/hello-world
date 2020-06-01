@@ -7,3 +7,4 @@ windows
 linux
 ubuntu
 8266
+32
