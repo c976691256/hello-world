@@ -6,3 +6,4 @@ git
 windows
 linux
 ubuntu
+8266
